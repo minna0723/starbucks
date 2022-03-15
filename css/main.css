@@ -361,7 +361,7 @@
 
 /* PICK YOUR FAVORITE */
 .pick-your-favorite{
-  background-image: url(/images/favorite_bg.jpg);
+  background-image: url(https://www.starbucks.co.kr/common/img/main/fav_prod_bg_new.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -386,7 +386,7 @@
 
 /* RESERVE STORE */
 .reserve-store{
-  background-image: url(/images/reserve_store_bg.jpg);
+  background-color: #EFDEC2;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
